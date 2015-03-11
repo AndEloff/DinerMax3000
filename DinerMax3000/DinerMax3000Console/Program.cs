@@ -10,6 +10,8 @@ namespace DinerMax3000Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.ReadKey();
         }
     }
 }
