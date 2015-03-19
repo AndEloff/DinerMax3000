@@ -1,0 +1,17 @@
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\bin\Debug\DinerMax3000WPFClients.exe.config
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\bin\Debug\DinerMax3000WPFClients.exe
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\bin\Debug\DinerMax3000WPFClients.pdb
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\bin\Debug\DinerMax3000BusinessLayer.dll
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\bin\Debug\DinerMax3000BusinessLayer.pdb
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients.csprojResolveAssemblyReference.cache
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\MainWindow.baml
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\MainWindow.g.cs
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\App.g.cs
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients_MarkupCompile.cache
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients.g.resources
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000.WPFClients.Properties.Resources.resources
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients.csproj.GenerateResource.Cache
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients.exe
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients.pdb
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Eloff\documents\visual studio 2013\Projects\DinerMax3000\DinerMax3000WPFClients\obj\Debug\DinerMax3000WPFClients_MarkupCompile.lref
