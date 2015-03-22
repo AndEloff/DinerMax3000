@@ -37,5 +37,18 @@ namespace DinerMax3000WPFClients
 
   
         }
+
+        private void DataGrid_RowEditEnding(object sender, DataGridRowEditEndingEventArgs e)
+        {
+            DinerMax3000.BusinessLayer.MenuItem newMenuItem = e.Row.Item as DinerMax3000.BusinessLayer.MenuItem;
+
+            if (newMenuItem != null && e.EditAction == DataGridEditAction.Commit && e.Row.IsNewItem)
+            {
+                DinerMax3000.WPFClients.DinerMax3000ViewModel currentViewModel = 
+                    (DinerMax3000.WPFClients.DinerMax3000ViewModel)DataContext;
+
+                currentViewModel.Add(newMenuItem);
+            }
+        }
     }
 }

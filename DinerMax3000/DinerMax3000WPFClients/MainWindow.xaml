@@ -9,7 +9,7 @@
     <Grid>
         <StackPanel>
             <ComboBox Name="cboAllMenus" SelectedItem="{Binding SelectedMenu}" ItemsSource="{Binding AllMenus}" DisplayMemberPath="Name"/>
-            <DataGrid ItemsSource="{Binding SelectedMenu.items}" />
+            <DataGrid CanUserAddRows="True" ItemsSource="{Binding SelectedMenu.items}" RowEditEnding="DataGrid_RowEditEnding" />
             <WrapPanel>
                 <Label>Title</Label>
                 <TextBox Width="150" Text="{Binding NewMenuItem.Title}"></TextBox>
